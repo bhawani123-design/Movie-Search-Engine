@@ -1,0 +1,23 @@
+.movieDivv {
+  margin-left: 450px;
+}
+.movieDivv img {
+  box-shadow: 0px 0px 71px;
+}
+.input {
+  margin: 20px 0px 50px 500px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+#rec {
+  background-color: rgb(243, 180, 62);
+  width: 130px;
+  font-size: 20px;
+}
+body h1 {
+  margin-left: 450px;
+}
